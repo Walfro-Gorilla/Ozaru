@@ -1,0 +1,20 @@
+export default {
+    client_name: "",
+    celular: "",
+    mail: "",
+    curp: "",
+    categoria: "",
+    status: "activo",
+    fecha_nac: "",
+    fecha_alta: new Date(),
+    user: "",
+    calle: "",
+    colonia: "",
+    cp: "",
+    ciudad: "",
+    estado: "",
+    pais: "",
+    contacto: "",
+    recomendo: "",
+    como_supo: "ME"
+}
