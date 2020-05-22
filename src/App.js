@@ -7,6 +7,7 @@ import { Link } from 'react-router-dom';
 class App extends Component {
   render() {
     return (
+      
       <div className="demo-big-content">
     <Layout>
         <Header className="header-color" title={<Link style={{textDecoration: 'none', color: 'white'}} to="/">Huitziil 2.0</Link>} scroll>
